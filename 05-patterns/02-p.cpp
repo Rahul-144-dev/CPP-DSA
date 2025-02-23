@@ -2,9 +2,10 @@
 using namespace std;
 int main()
 {
-  int x;
-  cin >> x;
-  cout << x;
-
+  int n;
+  cin >> n;
+  for (int i = 1; i < n; i++) {
+    
+  }
   return 0;
 }
